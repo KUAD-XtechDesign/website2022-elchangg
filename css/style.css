@@ -197,7 +197,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 ================================================= */
 .top_eye_catch {
   height: 850px;
-  color: #add8e6;
+  color: #b0e0e6;
   font-weight: bold;
   background-image: url("../images/ぴえんに襲われる！.jpg");/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
